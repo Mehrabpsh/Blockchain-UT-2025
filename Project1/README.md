@@ -19,7 +19,7 @@ In this course project, you will build a simplified Bitcoin client. The client's
 ## Repository management and submission:
 
 1. You can work on the project in groups of 2 or 3. Only one submission per group. Please list your netids in [netids.txt](../netids.txt)
-2. This repo provides the codebase for assignments. Please make a new **private** repo, e.g. username/Blockchain-UT-2025 (Please do not change the name of the repo). Import code from https://github.com/Blockchains-Princeton/COS-ECE470-fa2024.git.
+2. This repo provides the codebase for assignments. Please make a new **private** repo, e.g. username/Blockchain-UT-2025 (Please do not change the name of the repo). Import code from https://github.com/Mehrabpsh/Blockchain-UT-2025.git.
 3. You can run tests (by command `cargo test`) provided in the code to check the validity of their implementation. However, passing these tests doesn't guarantee to get full grades.
 4. Push to your GitHub repo's **main** branch (Please use `gitignore` file to avoid pushing unnecessary files! Specifically, the `target` directory should not be pushed), and click `Code -> Download ZIP' on GitHub to download a zip file. **Avoid zipping your code on your computer since the directories or files on your computer may cause an error for auto-grading.**
 5. Before submitting your code, you can double-check by running the auto-grading script we provide to make sure we can auto-grade your code. (Details below.)
